@@ -3,9 +3,10 @@
 ## Overview  
 This project analyzes mood patterns using datasets and visualizes insights using Tableau. The repository contains:
 
-- 📊 **Datasets (.csv):** Used for analysis and visualization.  
-- 🐍 **Python Script:** For data processing and analysis.  
-- 📈 **Tableau File:** Contains interactive visualizations of mood-related data.  
+- Raw & Processed Datasets (.csv): Used for analysis and visualization.  
+- Python Script: contains the python code for sentiment analysis  
+- Tableau File: Contains visualizations of the dataset.  
+ 
 
 ## Visualizations  
 ![BoxPlot](BoxPlot_Age_SleepQuality.jpg)
